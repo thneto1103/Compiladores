@@ -1,0 +1,10 @@
+VAR a,b,c, d;
+{comentario aleatorio nao eh pra dar problea$}
+BEG!IN
+	a:=2;
+	b:=3;
+	y:=3.+0.21+0.;
+	c:=@+b;
+	d:= # + &;
+ 	>=,x+134+0+1;
+END.
